@@ -7,8 +7,7 @@
 ## Файлы
 - `dataset1_cleaned_budget_revenues.csv` – очищенные исторические данные (702 строки, 7 колонок)
 - `dataset2_revenue_forecast.csv` – прогноз на 4 квартала
-- `project_notebook.ipynb` – Jupyter Notebook с полным кодом
-- `presentation.pptx` – слайды для защиты
+- `Рабочая_тетраль_итогового_проекта_Каменская_группа_2.ipynb` – Jupyter Notebook с полным кодом
 
 ## Результаты
 - Корреляция план–факт: 0.86
