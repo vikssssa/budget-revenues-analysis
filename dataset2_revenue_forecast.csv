@@ -1,0 +1,5 @@
+Date,Revenue_type,Predicted_actual_volume,Lower_bound_90%,Upper_bound_90%,Model_used
+01.07.2026,"Доходы, всего (прогноз)",2495.0557080000003,2245.5501372000003,2744.5612788000008,Naive seasonal (same quarter of previous year)
+01.10.2026,"Доходы, всего (прогноз)",3903.163608,3512.8472472,4293.4799688,Naive seasonal (same quarter of previous year)
+01.01.2027,"Доходы, всего (прогноз)",5463.8,4917.42,6010.18,Naive seasonal (same quarter of previous year)
+01.04.2027,"Доходы, всего (прогноз)",1210.31515,1089.283635,1331.346665,Naive seasonal (same quarter of previous year)
